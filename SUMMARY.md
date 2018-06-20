@@ -2,7 +2,7 @@
 
 * [前言](README.md)
 * [如何贡献](contribut.md)
-* [整体结构](overview.md.md)
+* [整体结构](overview.md)
 * [核心流程](core/readme.md)
   * [交易](core/jiao-yi.md)
   * [区块](core/qu-kuai.md)
