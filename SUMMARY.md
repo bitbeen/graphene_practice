@@ -1,7 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* [如何贡献](ru-he-gong-xian.md)
+* [如何贡献](ru-he-gong-xian/readme.md)
   * [README ](ru-he-gong-xian/readme.md)
 * [arct](zheng-ti-jie-gou.md)
   * [REANDME](zheng-ti-jie-gou/reandme.md)
