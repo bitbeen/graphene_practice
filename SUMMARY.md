@@ -151,7 +151,7 @@
     * [wallet](libarary/wallet.md)
 * [programs](programs.md)
   * [build\_helpers](programs/buildhelpers.md)
-  * README
+  * [README](programs/readme.md)
   * [cli\_wallet](programs/cliwallet.md)
   * [debug\_node](programs/debugnode.md)
   * [delayed\_node](programs/delayednode.md)
