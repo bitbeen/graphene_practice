@@ -145,7 +145,7 @@
     * [wallet](libarary/wallet.md)
 * [programs](programs.md)
   * [README](https://github.com/yeasy/docker_practice/blob/master/advanced_network/README.md)
-* * [build\_helpers](programs/buildhelpers.md)
+  * [build\_helpers](programs/buildhelpers.md)
   * [cli\_wallet](programs/cliwallet.md)
   * [debug\_node](programs/debugnode.md)
   * [delayed\_node](programs/delayednode.md)
