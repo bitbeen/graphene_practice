@@ -5,7 +5,7 @@
   * [README ](ru-he-gong-xian/readme.md)
 * [arct](zheng-ti-jie-gou.md)
   * [REANDME](zheng-ti-jie-gou/reandme.md)
-* [核心流程]
+* [核心流程](he-xin-liu-cheng/readme.md)
   * [交易](he-xin-liu-cheng/jiao-yi.md)
   * [区块](he-xin-liu-cheng/qu-kuai.md)
   * [共识](he-xin-liu-cheng/gong-shi.md)
