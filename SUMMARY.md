@@ -2,6 +2,7 @@
 
 * [前言](README.md)
 * [如何贡献](ru-he-gong-xian.md)
+  * README 
 * [整体结构](zheng-ti-jie-gou.md)
   * [REANDME](zheng-ti-jie-gou/reandme.md)
 * [核心流程](he-xin-liu-cheng.md)
@@ -149,8 +150,8 @@
     * [reflect\_util](libarary/reflectutil.md)
     * [wallet](libarary/wallet.md)
 * [programs](programs.md)
-  * [README](https://github.com/yeasy/docker_practice/blob/master/advanced_network/README.md)
   * [build\_helpers](programs/buildhelpers.md)
+  * README
   * [cli\_wallet](programs/cliwallet.md)
   * [debug\_node](programs/debugnode.md)
   * [delayed\_node](programs/delayednode.md)
