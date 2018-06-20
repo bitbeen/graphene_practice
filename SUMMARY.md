@@ -14,7 +14,7 @@
     * [full\_account](libarary/fullaccount.md)
     * [impacted](libarary/impacted.md)
     * [plugin](libarary/plugin.md)
-  * chain
+  * [chain](libarary/chain.md)
   * db
   * deterministic\_openssl\_rand
   * egenesis
@@ -36,6 +36,4 @@
   * witness\_node
 * 附录
   * 附录一：常见问题
-
-
 
