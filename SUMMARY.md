@@ -1,6 +1,4 @@
 # Summary
-
-* [Introduction](README.md)
 * [前言](qian-yan.md)
 * [如何贡献](ru-he-gong-xian.md)
 * 整体结构
