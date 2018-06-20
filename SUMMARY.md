@@ -10,7 +10,7 @@
   * [区块](he-xin-liu-cheng/qu-kuai.md)
   * [共识](he-xin-liu-cheng/gong-shi.md)
   * [README](he-xin-liu-cheng/readme.md)
-* [libarary](libarary.md)
+* [libarary](libarary/readme.md)
   * [README](libarary/readme.md)
   * [app](libarary/app.md)
     * [api](libarary/api.md)
