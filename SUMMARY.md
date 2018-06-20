@@ -3,7 +3,7 @@
 * [前言](README.md)
 * [如何贡献](ru-he-gong-xian/readme.md)
   * [README ](ru-he-gong-xian/readme.md)
-* [arct](zheng-ti-jie-gou.md)
+* [整体机构](zheng-ti-jie-gou.md)
   * [REANDME](zheng-ti-jie-gou/reandme.md)
 * [核心流程](core/readme.md)
   * [交易](core/jiao-yi.md)
