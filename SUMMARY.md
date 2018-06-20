@@ -4,6 +4,7 @@
 * 如何贡献
 * graphene简介
 * graphene基本概念
+* graphene安装
 
 
 
