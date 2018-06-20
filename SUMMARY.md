@@ -3,9 +3,9 @@
 * [前言](README.md)
 * [如何贡献](ru-he-gong-xian.md)
   * [README ](ru-he-gong-xian/readme.md)
-* [整体结构](zheng-ti-jie-gou.md)
+* [arct](zheng-ti-jie-gou.md)
   * [REANDME](zheng-ti-jie-gou/reandme.md)
-* [核心流程](he-xin-liu-cheng.md)
+* [核心流程]
   * [交易](he-xin-liu-cheng/jiao-yi.md)
   * [区块](he-xin-liu-cheng/qu-kuai.md)
   * [共识](he-xin-liu-cheng/gong-shi.md)
