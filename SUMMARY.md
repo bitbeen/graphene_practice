@@ -149,7 +149,7 @@
     * [api\_documentation](libarary/apidocumentation.md)
     * [reflect\_util](libarary/reflectutil.md)
     * [wallet](libarary/wallet.md)
-* [programs](programs.md)
+* [programs](programs/readme.md)
   * [build\_helpers](programs/buildhelpers.md)
   * [README](programs/readme.md)
   * [cli\_wallet](programs/cliwallet.md)
