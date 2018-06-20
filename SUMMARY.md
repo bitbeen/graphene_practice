@@ -1,7 +1,6 @@
 # Summary
 ---
-* [Introduction](README.md)
-* [前言](qian-yan.md)
+* [前言](README.md)
 * [如何贡献](ru-he-gong-xian.md)
 * [整体结构](zheng-ti-jie-gou.md)
 * [核心流程](he-xin-liu-cheng.md)
