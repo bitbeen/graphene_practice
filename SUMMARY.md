@@ -3,7 +3,12 @@
 * [前言](README.md)
 * [如何贡献](ru-he-gong-xian.md)
 * [整体结构](zheng-ti-jie-gou.md)
+  * REANDME
 * [核心流程](he-xin-liu-cheng.md)
+  * [交易](he-xin-liu-cheng/jiao-yi.md)
+  * [区块](he-xin-liu-cheng/qu-kuai.md)
+  * [共识](he-xin-liu-cheng/gong-shi.md)
+  * [README](he-xin-liu-cheng/readme.md)
 * [libarary](libarary.md)
   * [README](libarary/readme.md)
   * [app](libarary/app.md)
@@ -155,6 +160,4 @@
   * [witness\_node](programs/witnessnode.md)
 * [appendix](appendix/fu-lu.md)
   * [附录一：常见问题](fu-lu-yi-ff1a-chang-jian-wen-ti.md)
-
-
 
