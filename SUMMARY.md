@@ -15,7 +15,6 @@
     * [impacted](libarary/impacted.md)
     * [plugin](libarary/plugin.md)
   * chain
-    * [协议](libarary/xie-yi.md)
   * db
   * deterministic\_openssl\_rand
   * egenesis
@@ -37,4 +36,6 @@
   * witness\_node
 * 附录
   * 附录一：常见问题
+
+
 
