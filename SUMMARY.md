@@ -156,6 +156,6 @@
   * [js\_operation\_serializer](programs/jsoperation-serializer.md)
   * [size\_checker](programs/sizechecker.md)
   * [witness\_node](programs/witnessnode.md)
-* [appendix](appendix/fu-lu.md)
+* [appendix](appendix/readme.md)
   * [附录一：常见问题](appendix/appendix1.md)
 
