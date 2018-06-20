@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [前言](qian-yan.md)
 * [如何贡献](ru-he-gong-xian.md)
-* 整体结构
+* [整体结构](zheng-ti-jie-gou.md)
 * [核心流程](he-xin-liu-cheng.md)
 * [libarary](libarary.md)
   * [app](libarary/app.md)
@@ -15,7 +15,7 @@
     * [impacted](libarary/impacted.md)
     * [plugin](libarary/plugin.md)
   * [chain](libarary/chain.md)
-    * protocol
+    * [protocol](libarary/chain/protocol.md)
       * [account](libarary/chain/account.md)
       * [address](libarary/chain/address.md)
       * [assert](libarary/chain/assert.md)
@@ -100,7 +100,7 @@
     * [witness\_schedule\_object](libarary/chain/witnessschedule-object.md)
     * [worker\_evaluator](libarary/chain/workerevaluator.md)
     * [worker\_object](libarary/chain/workerobject.md)
-  * db
+  * [db](libarary/db.md)
     * [flat\_index](libarary/flatindex.md)
     * [fwd](libarary/fwd.md)
     * [generic\_index](libarary/genericindex.md)
@@ -112,10 +112,10 @@
     * [undo\_database](libarary/undodatabase.md)
   * [deterministic\_openssl\_rand](libarary/deterministicopenssl-rand.md)
     * [deterministic\_openssl\_rand](libarary/deterministicopenssl-rand/deterministicopenssl-rand.md)
-  * egenesis
+  * [egenesis](libarary/egenesis.md)
     * [egenesis](libarary/egenesis.md)
   * [fc](libarary/fc.md)
-  * net
+  * [net](libarary/net.md)
     * [config](libarary/config.md)
     * [core\_messages](libarary/coremessages.md)
     * [exceptions](libarary/exceptions.md)
@@ -125,13 +125,13 @@
     * [peer\_connection](libarary/peerconnection.md)
     * [peer\_database](libarary/peerdatabase.md)
     * [stcp\_socket](libarary/stcpsocket.md)
-  * p2p
+  * [p2p](libarary/p2p.md)
     * [message\_oriented\_connection](libarary/messageoriented-connection.md)
     * [message](libarary/message.md)
     * [node](libarary/node.md)
     * [peer\_connection](libarary/peerconnection.md)
     * [stcp\_socket](libarary/stcpsocket.md)
-  * plugins
+  * [plugins](libarary/plugins.md)
     * [account\_history](libarary/accounthistory.md)
     * [debug\_witness](libarary/debugwitness.md)
     * [delayed\_node](libarary/delayednode.md)
@@ -139,7 +139,7 @@
     * [witness](libarary/witness.md)
   * [time](libarary/time.md)
   * [utilities](libarary/utilities.md)
-  * wallet
+  * [wallet](libarary/wallet.md)
     * [api\_documentation](libarary/apidocumentation.md)
     * [reflect\_util](libarary/reflectutil.md)
     * [wallet](libarary/wallet.md)
