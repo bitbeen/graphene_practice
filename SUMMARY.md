@@ -1,5 +1,5 @@
 # Summary
----
+
 * [前言](README.md)
 * [如何贡献](ru-he-gong-xian.md)
 * [整体结构](zheng-ti-jie-gou.md)
@@ -151,6 +151,6 @@
   * [js\_operation\_serializer](programs/jsoperation-serializer.md)
   * [size\_checker](programs/sizechecker.md)
   * [witness\_node](programs/witnessnode.md)
-* [附录](appendix/fu-lu.md)
+* [appendix](appendix/fu-lu.md)
   * [附录一：常见问题](fu-lu-yi-ff1a-chang-jian-wen-ti.md)
 
