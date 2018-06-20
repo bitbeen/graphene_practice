@@ -157,5 +157,5 @@
   * [size\_checker](programs/sizechecker.md)
   * [witness\_node](programs/witnessnode.md)
 * [appendix](appendix/fu-lu.md)
-  * [附录一：常见问题](appendix/fu-lu-yi-ff1a-chang-jian-wen-ti.md)
+  * [附录一：常见问题](appendix/appendix1.md)
 
