@@ -101,15 +101,48 @@
     * worker\_evaluator
     * worker\_object
   * db
+    * flat\_index
+    * fwd
+    * generic\_index
+    * index
+    * object
+    * object\_database
+    * object\_id
+    * simple\_index
+    * undo\_database
   * deterministic\_openssl\_rand
+    * deterministic\_openssl\_rand
   * egenesis
+    * egenesis
   * fc
   * net
+    * config
+    * core\_messages
+    * exceptions
+    * message
+    * message\_oriented\_connection
+    * node
+    * peer\_connection
+    * peer\_database
+    * stcp\_socket
   * p2p
+    * message
+    * message\_oriented\_connection
+    * node
+    * peer\_connection
+    * stcp\_socket
   * plugins
+    * account\_history
+    * debug\_witness
+    * delayed\_node
+    * market\_history
+    * witness
   * time
   * utilities
   * wallet
+    * api\_documentation
+    * reflect\_util
+    * wallet
 * programs
   * build\_helpers
   * cli\_wallet
