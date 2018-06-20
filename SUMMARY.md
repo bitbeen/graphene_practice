@@ -3,7 +3,7 @@
 * [前言](README.md)
 * [如何贡献](ru-he-gong-xian.md)
 * [整体结构](zheng-ti-jie-gou.md)
-  * REANDME
+  * [REANDME](zheng-ti-jie-gou/reandme.md)
 * [核心流程](he-xin-liu-cheng.md)
   * [交易](he-xin-liu-cheng/jiao-yi.md)
   * [区块](he-xin-liu-cheng/qu-kuai.md)
