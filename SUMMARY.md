@@ -6,7 +6,7 @@
 * 整体结构
 * [核心流程](he-xin-liu-cheng.md)
 * [libarary](libarary.md)
-  * app
+  * [app](libarary/app.md)
     * [api](libarary/api.md)
     * [application](libarary/application.md)
     * [database\_api](libarary/databaseapi.md)
@@ -15,6 +15,7 @@
     * [impacted](libarary/impacted.md)
     * [plugin](libarary/plugin.md)
   * chain
+    * 协议
   * db
   * deterministic\_openssl\_rand
   * egenesis
@@ -36,4 +37,6 @@
   * witness\_node
 * 附录
   * 附录一：常见问题
+
+
 
