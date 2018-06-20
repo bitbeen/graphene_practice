@@ -2,7 +2,7 @@
 
 * [前言](README.md)
 * [如何贡献](ru-he-gong-xian.md)
-  * README 
+  * [README ](ru-he-gong-xian/readme.md)
 * [整体结构](zheng-ti-jie-gou.md)
   * [REANDME](zheng-ti-jie-gou/reandme.md)
 * [核心流程](he-xin-liu-cheng.md)
