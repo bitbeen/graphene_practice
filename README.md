@@ -6,7 +6,3 @@
 * 组件化
 * 稳定
 * 性能好
-## 石墨烯的特性
-- Accounts
-- Core asset
-- UIA's
