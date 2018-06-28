@@ -9,7 +9,14 @@
 * 稳定
 * 性能好
 
-## 加入讨论组
+## React全栈学习系列
+* [Redux学习指南](https://github.com/bitbeen/learn_redux.git)
+* [React学习指南](https://github.com/bitbeen/learn_react.git)
+* [React-Native学习指南](https://github.com/bitbeen/learn_react_native.git)
+
+## 区块链系列
+* [石墨烯技术实战之路](https://github.com/bitbeen/graphene_practice.git)
+* [Nxt区块链实战](https://github.com/bitbeen/nxt_practice.git)
 
 
 
